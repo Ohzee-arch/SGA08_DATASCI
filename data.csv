@@ -1,0 +1,2 @@
+List = ["Study", "Pray", "Work", "Friendship", "Marriage", "Focus", "Play", "laugh", "Win", "Birth", "Death"]
+df = {"Study": 50, "Pray" = 90, "Work = 80", "Friendship" = 70, "Marriage" = 85, "Focus" = 99, "Play" = 65, "laugh" = 74, "Win" = 100, "Birth" = 72, "Death" = 40}
